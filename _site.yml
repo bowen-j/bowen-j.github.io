@@ -1,0 +1,9 @@
+name: "Jeff Bowen"
+output_dir: "."
+navbar:
+  title: "Jeff Bowen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
