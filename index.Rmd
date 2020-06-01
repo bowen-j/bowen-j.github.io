@@ -1,5 +1,0 @@
----
-title: "Jeff Bowen"
----
-
-Hello, World!
