@@ -1,5 +1,7 @@
 ---
-title: "Jeff Bowen"
+title: "Welcome!"
 ---
 
-Hello, World!
+Thanks for visiting!
+
+Feel free to browse around the pages listed across the top banner
