@@ -13,3 +13,7 @@ navbar:
       href: research.html
     - text: "Links"
       href: links.html
+output:
+  html_document:
+    theme: cayman
+    
