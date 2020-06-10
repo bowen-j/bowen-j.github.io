@@ -10,15 +10,20 @@ title: "Teaching"
 
 ### *Johns Hopkins University*
 
-**Psychology and Social Media** <br> Summer 2018 -- 
+**Psychology and Social Media** <br> *Summer 2018 -- Present* <br>
+A new class I developed covering the intersection between psychological processes and digital social media phenomena (e.g., motivation, norms, group processes, mental health). 
 
-**Advanced Research Design and Analysis** <br> Spring 2018 --
+**Research Methods in Psychology** <br> *Fall 2017 -- Present* <br>
+The first class in a two-course sequence on research methods, data management, and applied statistics (with data collection and analysis lab)
 
-**Design and Statistical Analysis for Psychology** <br> Spring 2018 --
+**Design and Statistical Analysis for Psychology** <br> *Spring 2018 -- Present* <br>
+The second class in a two-course sequence on research methods, data management, and applied statistics (with data collection and analysis lab)
 
-**Advanced Statistical Methods** <br> Fall 2017 --
+**Advanced Statistical Methods** <br> *Fall 2017 -- Present* <br>
+A first-semester statistics class for first-year Ph.D. students in Psychological and Brain Sciences.
 
-**Research Methods in Psychology** <br> Fall 2017 --
+**Advanced Research Design and Analysis** <br> *Spring 2018 -- Present* <br>
+A second-semester statistics class for first-year Ph.D. students in Psychological and Brain Sciences.
 
 ---
 

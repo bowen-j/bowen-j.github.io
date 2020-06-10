@@ -4,7 +4,7 @@ title: "Research"
 
 <br>
 
-### Current Lab Projects
+### **Current Lab Projects**
 
 ---
 
@@ -24,9 +24,9 @@ title: "Research"
 
 ---
 
-### Publications
+### **Publications**
 
-See the references and links below for some of my published research:
+<p style="color:gray">See the references and links below for some of my published research:</p>
 
 **Bowen, J.D.**, & Gillath, O. (2020). Who plays hard-to-get and who finds it attractive? Investigating the role of attachment style. *Personality and Individual Differences, 162*. [doi: 10.1016/j.paid.2020.109997](https://doi.org/10.1016/j.paid.2020.109997)
 
@@ -42,4 +42,4 @@ Collins, N.L., Kane, H.S., Metz, M.A., Cleveland, C., Khan, C., Winczewski, L., 
 
 ---
 
-My full CV can be found [here](files/Bowen CV 2020.pdf).
+#### My full CV can be found [here](files/Bowen CV 2020.pdf).
