@@ -5,3 +5,5 @@ title: "Welcome!"
 Thanks for visiting!
 
 Feel free to browse around the pages listed across the top banner
+
+<img src = "images/pienza.jpg" align = "center">
