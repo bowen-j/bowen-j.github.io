@@ -2,6 +2,30 @@
 title: "Research"
 ---
 
+<br>
+
+### Current Lab Projects
+
+---
+
+#### Commitment, Abstraction, and Relationship Maintenance
+
+---
+
+#### Mental Representation in Long-Distance Relationships
+
+---
+
+#### Structure of Psychological Measures in Relationship Science
+
+---
+
+#### Romantic Partners' Temporal Landmarking
+
+---
+
+### Publications
+
 See the references and links below for some of my published research:
 
 **Bowen, J.D.**, & Gillath, O. (2020). Who plays hard-to-get and who finds it attractive? Investigating the role of attachment style. *Personality and Individual Differences, 162*. [doi: 10.1016/j.paid.2020.109997](https://doi.org/10.1016/j.paid.2020.109997)
@@ -16,3 +40,6 @@ Cheung, I., Campbell, L., LeBel, E., Ackerman, R.A., Aykutoglu, B., Bahnik, S., 
 
 Collins, N.L., Kane, H.S., Metz, M.A., Cleveland, C., Khan, C., Winczewski, L., **Bowen, J.**, & Prok, T. (2014). Psychological, physiological, and behavioral responses to a partner in need: The role of compassionate love. *Journal of Social and Personal Relationships, 31*, 601-629. [doi: 10.1177/0265407514529069](https://doi.org/10.1177/0265407514529069)
 
+---
+
+My full CV can be found [here](files/Bowen CV 2020.pdf).
