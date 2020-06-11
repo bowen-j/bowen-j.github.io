@@ -2,8 +2,22 @@
 title: "Welcome!"
 ---
 
-Thanks for visiting!
+<br>
 
-Feel free to browse around the pages listed across the top banner
+#### Feel free to browse around the pages listed across the top banner
 
-<img src = "images/pienza.jpg" align = "center">
+---
+
+<figure>
+  <img src = "images/pienza.jpg" align = "center" style="width:100%">
+  <figcaption>View of the Tuscan countryside from the town of Pienza, Italy</figcaption>
+</figure>
+
+<style>
+figcaption {
+  background-color: #424046;
+  color: #BEE1FF;
+  padding: 2px;
+  text-align: center;
+}
+</style>

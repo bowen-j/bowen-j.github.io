@@ -9,24 +9,42 @@ title: "Research"
 ---
 
 #### Commitment, Abstraction, and Relationship Maintenance
+<details>
+<summary style = "color:gray"></summary>
+Decades of research has demonstrated that more committed romantic partners engage in more relationship maintenance activity (e.g., sacrifice, constructive conflict patterns, fidelity, forgiveness). Through a series of studies, this project explores how more (vs. less) committed partners' mental representations of conflicts of interest in their relationship help drive their relationship maintenance intentions and behavior. Specifically, we examine whether commitment enables partners to adopt a "big-picture" (e.g., abstract, high-level construal) view of high-stakes moments in their relationship, where opportunities to regulate their behavior in support of relationship maintenance are available (but not always seized).
+</details>
 
 ---
 
 #### Mental Representation in Long-Distance Relationships
+<details>
+<summary style = "color:gray"></summary>
+Previous work in the psychological and communication literatures suggests (perhaps suprisingly) that partners in long-distance relationshps are about as content as those in geographically close relationships. However, these relationships often undergo serious strain during transitions from distance to proximity. This project examines whether long-distance partners are fundamentally conceiving of one another in more abstract ways as a function of their greater *psychological* distance, and if these abstract representations, in turn, support specific relationship maintenance strategies that may be more effective at a distance than at proximity.
+</details>
 
 ---
 
 #### Structure of Psychological Measures in Relationship Science
+<details>
+<summary style = "color:gray"></summary>
+For most of its decades-long history, relationship science has used pen-and-paper style questionnaires as its dominant form of self-report instrument. For each survey item, respondents must read the general phrase "your partner" (or variants thereof), but must consider very different people when actually reflecting on these items to arrive at their responses. With the affordances of modern digital technology, and the increasingly realistic prospect of engaging with pictorial reprsentations of social partners, might the inclusion of images be a meaningful alternative means of measuring attitudes toward a specific partner? This project explores this question by incorporating pictorial stimuli into self-report instruments, to determine whether the psychometric properties and predictive validity of long-used measurement tools changes when a more specific representation of "one's partner" is made available.
+</details>
 
 ---
 
 #### Romantic Partners' Temporal Landmarking
+<details>
+<summary style = "color:gray"></summary>
+Prior research has found that when specific moments in time are made salient, individuals often segment their sense of self (and associated attitudes, feelings, and goals) and personal narratives into "before" and "after" phases relative to the temporal landmark. This project explores the implications of such a phenomenon for romantic partners, particularly with regard to a calendar date with shared cultural significance for couples (and singles):&nbsp;&nbsp;Valentine's Day.
+</details>
 
 ---
 
 ### **Publications**
 
 <p style="color:gray">See the references and links below for some of my published research:</p>
+
+<div style="text-indent:-36px;padding-left:36px;">
 
 **Bowen, J.D.**, & Gillath, O. (2020). Who plays hard-to-get and who finds it attractive? Investigating the role of attachment style. *Personality and Individual Differences, 162*. [doi: 10.1016/j.paid.2020.109997](https://doi.org/10.1016/j.paid.2020.109997)
 
@@ -39,6 +57,8 @@ Hackel, L.M., Larson, G.M., **Bowen, J.D.**, Ehrlich, G.A., Mann, T.C., Roberts,
 Cheung, I., Campbell, L., LeBel, E., Ackerman, R.A., Aykutoglu, B., Bahnik, S., **Bowen, J.D.**, ... & Yong, J.C. (2016). Registered Replication Report: Study 1 from Finkel, Rusbult, Kumashiro, & Hannon (2002). *Perspectives on Psychological Science, 11*, 750-764. [doi: 10.1177/1745691616664694](https://doi.org/10.1177/1745691616664694)
 
 Collins, N.L., Kane, H.S., Metz, M.A., Cleveland, C., Khan, C., Winczewski, L., **Bowen, J.**, & Prok, T. (2014). Psychological, physiological, and behavioral responses to a partner in need: The role of compassionate love. *Journal of Social and Personal Relationships, 31*, 601-629. [doi: 10.1177/0265407514529069](https://doi.org/10.1177/0265407514529069)
+
+</div>
 
 ---
 
