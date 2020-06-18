@@ -15,6 +15,7 @@ navbar:
     - text: "R Demos"
       href: demos.html
 output:
-  html_document:
+  tutorial::learnr:
+    runtime: shiny_prerendered:
     theme: flatly
     
