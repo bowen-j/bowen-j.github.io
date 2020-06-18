@@ -1,7 +1,6 @@
 name: "Jeff Bowen"
 output_dir: "."
 navbar:
-  title: "Jeff Bowen"
   left:
     - text: "Home"
       href: index.html
@@ -13,6 +12,8 @@ navbar:
       href: research.html
     - text: "Links"
       href: links.html
+    - text: "R Demos"
+      href: demos.html
 output:
   html_document:
     theme: flatly

@@ -46,20 +46,20 @@ Prior research has found that when specific moments in time are made salient, in
 
 <div style="text-indent:-36px;padding-left:36px;">
 
-**Bowen, J.D.**, & Gillath, O. (2020). Who plays hard-to-get and who finds it attractive? Investigating the role of attachment style. *Personality and Individual Differences, 162*. [doi: 10.1016/j.paid.2020.109997](https://doi.org/10.1016/j.paid.2020.109997)
+**Bowen, J.D.**, & Gillath, O. (2020). Who plays hard-to-get and who finds it attractive? Investigating the role of attachment style. *Personality and Individual Differences, 162*. [doi: 10.1016/j.paid.2020.109997](https://doi.org/10.1016/j.paid.2020.109997){target="_blank"}
 
-**Bowen, J.D.**, Winczewski, L.A., & Collins, N.L. (2017). Language Style Matching in romantic partners' conflict and support interactions. *Journal of Language and Social Psychology, 36*, 263-286. [doi: 10.1177/0261927X16666308](https://doi.org/10.1177/0261927X16666308)
+**Bowen, J.D.**, Winczewski, L.A., & Collins, N.L. (2017). Language Style Matching in romantic partners' conflict and support interactions. *Journal of Language and Social Psychology, 36*, 263-286. [doi: 10.1177/0261927X16666308](https://doi.org/10.1177/0261927X16666308){target="_blank"}
 
-Winczewski, L.A., **Bowen, J.D.**, & Collins, N.L. (2016). Is empathic accuracy enough to facilitate responsive behavior in dyadic interaction? Distinguishing ability from motivation. *Psychological Science, 27*, 394-404. [doi: 10.1177/0956797615624491](https://doi.org/10.1177/0956797615624491)
+Winczewski, L.A., **Bowen, J.D.**, & Collins, N.L. (2016). Is empathic accuracy enough to facilitate responsive behavior in dyadic interaction? Distinguishing ability from motivation. *Psychological Science, 27*, 394-404. [doi: 10.1177/0956797615624491](https://doi.org/10.1177/0956797615624491){target="_blank"}
 
-Hackel, L.M., Larson, G.M., **Bowen, J.D.**, Ehrlich, G.A., Mann, T.C., Roberts, I.D., ... & Feldman Barrett, L. (2016). On the neural implausibility of the modular mind: Evidence for distributed construction of perception, cognition, and emotion. *Behavioral and Brain Sciences, 39*, 34-36. [doi: 10.1017/S0140525X15002770](https://doi.org/10.1017/S0140525X15002770)
+Hackel, L.M., Larson, G.M., **Bowen, J.D.**, Ehrlich, G.A., Mann, T.C., Roberts, I.D., ... & Feldman Barrett, L. (2016). On the neural implausibility of the modular mind: Evidence for distributed construction of perception, cognition, and emotion. *Behavioral and Brain Sciences, 39*, 34-36. [doi: 10.1017/S0140525X15002770](https://doi.org/10.1017/S0140525X15002770){target="_blank"}
 
-Cheung, I., Campbell, L., LeBel, E., Ackerman, R.A., Aykutoglu, B., Bahnik, S., **Bowen, J.D.**, ... & Yong, J.C. (2016). Registered Replication Report: Study 1 from Finkel, Rusbult, Kumashiro, & Hannon (2002). *Perspectives on Psychological Science, 11*, 750-764. [doi: 10.1177/1745691616664694](https://doi.org/10.1177/1745691616664694)
+Cheung, I., Campbell, L., LeBel, E., Ackerman, R.A., Aykutoglu, B., Bahnik, S., **Bowen, J.D.**, ... & Yong, J.C. (2016). Registered Replication Report: Study 1 from Finkel, Rusbult, Kumashiro, & Hannon (2002). *Perspectives on Psychological Science, 11*, 750-764. [doi: 10.1177/1745691616664694](https://doi.org/10.1177/1745691616664694){target="_blank"}
 
-Collins, N.L., Kane, H.S., Metz, M.A., Cleveland, C., Khan, C., Winczewski, L., **Bowen, J.**, & Prok, T. (2014). Psychological, physiological, and behavioral responses to a partner in need: The role of compassionate love. *Journal of Social and Personal Relationships, 31*, 601-629. [doi: 10.1177/0265407514529069](https://doi.org/10.1177/0265407514529069)
+Collins, N.L., Kane, H.S., Metz, M.A., Cleveland, C., Khan, C., Winczewski, L., **Bowen, J.**, & Prok, T. (2014). Psychological, physiological, and behavioral responses to a partner in need: The role of compassionate love. *Journal of Social and Personal Relationships, 31*, 601-629. [doi: 10.1177/0265407514529069](https://doi.org/10.1177/0265407514529069){target="_blank"}
 
 </div>
 
 ---
 
-#### My full CV can be found [here](files/Bowen CV 2020.pdf).
+#### My full CV can be found [here](files/Bowen CV 2020.pdf){target="_blank"}.
