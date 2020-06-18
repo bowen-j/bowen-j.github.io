@@ -12,10 +12,7 @@ navbar:
       href: research.html
     - text: "Links"
       href: links.html
-    - text: "R Demos"
-      href: demos.html
 output:
-  tutorial::learnr:
-    runtime: shiny_prerendered:
+  html_document:
     theme: flatly
     
