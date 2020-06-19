@@ -12,6 +12,8 @@ navbar:
       href: research.html
     - text: "Links"
       href: links.html
+    - text: "LeaRning"
+      href: learning.html
 output:
   html_document:
     theme: flatly
