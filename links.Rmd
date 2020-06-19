@@ -20,6 +20,13 @@ A package that can be used to build *R* tutorials, quizzes, and other coding tra
 
 ---
 
+### **Other Resources**
+
+[Connected Papers](https://connectedpapers.com){target="_blank"}<br>
+Great website for conducting literature reviews, where a target article is used to generate a network diagram linking to other related papers in this research area (based on citation patterns)
+
+---
+
 ### **Professional Organizations**
 
 [International Association for Relationships Research (IARR)](https://iarr.org){target="_blank"}<br>
