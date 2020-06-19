@@ -1,16 +1,20 @@
 ---
 title: "R for Instructors"
+output:
+  html_document:
+    includes:
+      in_header: header.html
 ---
 
 <br>
 
 ### Here "*R*" some ways I've incorporated *R* into my classes...
 
-<br>
+---
 
-### Using *R* to build network diagrams
+#### Using *R* to build network diagrams (with the `visNetwork` package)
 
-This network was created from the patterns in our class discussion forums in Psychology and Social Media. How fitting that an exchange of ideas takes on an emergent structure that looks so much like a  brain!
+This network was created from the patterns in our class discussion forums in Psychology and Social Media. How fitting that an exchange of ideas takes on an emergent structure that looks so much like a  brain! The different colored arrows represent responses among students in 4 different discussion threads. Feel free to zoom in or drag the various nodes of the network around.
 
 ```{r, echo = FALSE, warning = FALSE}
 library(visNetwork)
@@ -27,3 +31,16 @@ edges <- data.frame(from = source,
 visNetwork(nodes, edges, )
 ```
 
+---
+
+#### Using the `learnr` package to build self-paced tutorial exercises
+
+Here are the kinds of activities that can be generated using the `learnr` package.
+
+<iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive"  src="https://bowen-j.shinyapps.io/learnr_app1/" scrolling="no" frameborder="no"></iframe>
+
+---
+
+<script>
+  iFrameResize({}, ".interactive");
+</script>
