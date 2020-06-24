@@ -1,0 +1,23 @@
+---
+title: "Interactive Tutorials"
+output:
+  html_document:
+    includes:
+      in_header: header.html
+---
+
+<br>
+
+### Here "*R*" some ways I've incorporated *R* into my classes...
+
+---
+
+#### Using the `learnr` package to build self-paced tutorial exercises
+
+<iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive"  src="https://bowen-j.shinyapps.io/learnr_app1/" scrolling="no" frameborder="no"></iframe>
+
+---
+
+<script>
+  iFrameResize({}, ".interactive");
+</script>
