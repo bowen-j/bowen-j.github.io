@@ -35,7 +35,6 @@ visNetwork(nodes, edges, )
 
 #### Using the `learnr` package to build self-paced tutorial exercises
 
-Here are the kinds of activities that can be generated using the `learnr` package.
 
 <iframe style="margin:0 auto; min-width: 100%;" id="myIframe1" class="interactive"  src="https://bowen-j.shinyapps.io/learnr_app1/" scrolling="no" frameborder="no"></iframe>
 
