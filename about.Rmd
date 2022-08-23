@@ -6,7 +6,7 @@ title: "About Me"
 
 <img src = "images/profilejeff.jpg" style = "margin-right: 20px" align = "left">
 
-#### I am a teaching faculty member in the department of Psychological and Brain Sciences at Johns Hopkins University. I began my position at JHU after completing my Ph.D. in Psychological and Brain Sciences at the University of California, Santa Barbara. I'm a social psychologist by training, specializing in the study of adult romantic relationships.
+#### I am a teaching faculty member in the department of Psychological and Brain Sciences at Johns Hopkins University. I began my position at JHU after completing my Ph.D. in Psychological and Brain Sciences at the University of California, Santa Barbara. I am a social psychologist specializing in the study of adult romantic relationships.
 
 #### I teach undergraduate and graduate courses in research methods, statistics, and social media psychology. I also run an undergraduate research lab in which we explore the role of mental representation in how couples overcome challenges and reflect on the state of their relationships. We call ourselves the **"SPARC"** Lab (**S**ocial **P**sychological **A**nalysis of **R**elationship **C**ognition)!
 
