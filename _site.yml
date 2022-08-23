@@ -1,0 +1,21 @@
+name: "Jeff Bowen"
+output_dir: "."
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Research"
+      href: research.html
+    - text: "Links"
+      href: links.html
+    - text: "LeaRning"
+      href: learning.html
+      menu:
+output:
+  html_document:
+    theme: flatly
+    
