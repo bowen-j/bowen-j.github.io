@@ -13,10 +13,7 @@ navbar:
     - text: "Links"
       href: links.html
     - text: "LeaRning"
-      menu:
-      - text: "Discussion Networks"
-        href: learning.html
+      href: learning.html
 output:
   html_document:
-    theme: flatly
-    
+    theme: flatly 
